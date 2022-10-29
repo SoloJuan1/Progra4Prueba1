@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SoloJuan1/Progra4Prueba1/issues"
   },
-  "homepage": "https://github.com/SoloJuan1/Progra4Prueba1#readme"
+  "homepage": "https://github.com/SoloJuan1/Progra4Prueba1#readme",
+  "dependencies": {
+    "yargs": "^17.6.0"
+  }
 }
